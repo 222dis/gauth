@@ -4,9 +4,9 @@
 
 ```bash
 
-PS D:\sdev\222dis\gauth> go mod init github.com/222dis/gauth
+PS D:\sdev\222dis\gauth\app> go mod init github.com/222dis/gauth
 go: creating new go.mod: module github.com/222dis/gauth
-PS D:\sdev\222dis\gauth>
+PS D:\sdev\222dis\gauth\app>
 ```
 *github.com/222dis/gauth debe ser único
 
@@ -29,9 +29,9 @@ Installing 7 tools at C:\Users\Lab_Redes\go\bin in module mode.
 
 
 ```bash
-PS D:\sdev\222dis\gauth>go install github.com/cosmtrek/air@latest
+PS D:\sdev\222dis\gauth\app>go install github.com/cosmtrek/air@latest
 
-PS D:\sdev\222dis\gauth>air
+PS D:\sdev\222dis\gauth\app>air
 
 ```
 
